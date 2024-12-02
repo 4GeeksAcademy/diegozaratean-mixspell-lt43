@@ -1,0 +1,6 @@
+mis tecnologias favoritas son:
+
+css
+javascript
+C++
+html
